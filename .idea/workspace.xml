@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7c0a666-07db-4351-8bd7-9d9c4d98f092" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/const/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/const/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/destructuring/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/destructuring/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/regx/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/regx/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/string/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/string/index.html" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/array/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/array/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/number/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/number/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/let/index.html" afterPath="$PROJECT_DIR$/let/index.html" />
+      <change beforePath="$PROJECT_DIR$/regx/index.html" afterPath="$PROJECT_DIR$/regx/index.html" />
+      <change beforePath="$PROJECT_DIR$/string/app.js" afterPath="$PROJECT_DIR$/string/app.js" />
+      <change beforePath="$PROJECT_DIR$/string/index.html" afterPath="$PROJECT_DIR$/string/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,20 +33,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/string/app.js">
+        <entry file="file://$PROJECT_DIR$/function/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="27">
+              <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regx/index.html">
+        <entry file="file://$PROJECT_DIR$/function/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -69,8 +68,15 @@
         <option value="$PROJECT_DIR$/destructuring/index.html" />
         <option value="$PROJECT_DIR$/destructuring/app.js" />
         <option value="$PROJECT_DIR$/regx/app.js" />
+        <option value="$PROJECT_DIR$/string/index.html" />
         <option value="$PROJECT_DIR$/regx/index.html" />
         <option value="$PROJECT_DIR$/string/app.js" />
+        <option value="$PROJECT_DIR$/number/index.html" />
+        <option value="$PROJECT_DIR$/number/app.js" />
+        <option value="$PROJECT_DIR$/array/index.html" />
+        <option value="$PROJECT_DIR$/array/app.js" />
+        <option value="$PROJECT_DIR$/function/index.html" />
+        <option value="$PROJECT_DIR$/function/app.js" />
       </list>
     </option>
   </component>
@@ -136,7 +142,7 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="es6" type="cbb8eebc:String" user="es6" />
-              <item name="regx" type="cbb8eebc:String" user="regx" />
+              <item name="function" type="cbb8eebc:String" user="function" />
             </path>
           </expand>
           <select />
@@ -181,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518936561966</updated>
-      <workItem from="1518936563121" duration="4327000" />
+      <workItem from="1518936563121" duration="9765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4327000" />
+    <option name="totallyTimeSpent" value="9765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -222,14 +228,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/let/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -246,26 +244,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/const/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/let/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/destructuring/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -286,6 +268,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/string/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/regx/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -294,10 +284,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/app.js">
+    <entry file="file://$PROJECT_DIR$/const/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/destructuring/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/let/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="75" column="37" lean-forward="true" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
           <folding />
         </state>
       </provider>
